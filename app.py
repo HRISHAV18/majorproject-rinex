@@ -11,3 +11,7 @@ op = model.predict([ip])
 if st.button('Predict'):
   st.title(op[0])  # st.button will create a button with name Predict
 
+
+  
+  
+  
